@@ -42,9 +42,9 @@ Alunos inteli (remover essa observação do readme.md após leitura e execução
 
 Supondo que você é da Turma 4 e Projeto 5, substitua:
 
-T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_IoT_document.pdf
+T(NUMERO_DA_TURMA)_G(NUMERO_DO_GRUPO)_V(VERSÃO)_document.pdf
 por
-T4_G5_V01_IoT_document.pdf
+T6_G1_V01_document.pdf
 
 Faça o mesmo para a documentação em formato DOCX, se houver.
 ```
@@ -77,9 +77,9 @@ Alunos inteli (remover essa observação do readme.md após leitura e execução
 Oriente o usuário a configurar passo-a-passo o Ubidots, para que ele reproduza a experiência completa com o protótipo coletando dados. Vocês podem optar por colocar instruções no próprio Manual de Instruções, e neste caso, pode remover esta seção completamente.
 ```
 
-Aqui encontram-se todas as instruções necessárias para a configuração do sistema de consolidação dos dados (Ubidots ou equivalente)
+Aqui encontram-se todas as instruções necessárias para a configuração do sistema
 
-1. Acessar a plataforma Ubidots e criar uma conta:  [https://ubidots.com/](https://ubidots.com/)
+1. passo 1
 2. passo 2
 3. passo 3
 
