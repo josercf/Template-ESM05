@@ -15,14 +15,13 @@
 
 ## :teacher: Professores:
 ### Orientador(a) 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Vanessa Nunes</a>
 ### Instrutores
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Programação</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Matemática</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Física</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Negócios</a>
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Design</a> 
-- <a href="https://www.linkedin.com/in/victorbarq/">Nome do professor Liderança</a>
+- <a href="https://www.linkedin.com/in/jose-romualdo/">Programação - José Romualdo</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Matemática e Física - Geraldo Vasconcelos</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Negócios - Lisane Valdo</a>
+- <a href="https://www.linkedin.com/in/victorbarq/">Design - Guilherme Henrique de Oliveira Cestari</a> 
+- <a href="https://www.linkedin.com/in/victorbarq/">Liderança - Filipe Gonçalves</a>
 
 ## 📝 Descrição
 
@@ -32,9 +31,9 @@ Curta descrição sobre o que o seu projeto faz (problema a ser resolvido e solu
 
 Clique <a href="https://www.linkedin.com/in/victorbarq/">AQUI</a> para acessar a plataforma de consolidação dos dados.
 
-<a href="https://www.linkedin.com/in/victorbarq/">Link para o Manual de Instruções</a> que explica como montar, conectar e utilizar o protótipo físico (circuito).
+<a href="https://www.linkedin.com/in/victorbarq/">Link para o Manual de Instruções</a> que explica como montar, conectar e utilizar o protótipo.
 
-<a href="https://www.linkedin.com/in/victorbarq/">Link para a documentação geral (IoT Document)</a> do projeto.
+<a href="https://www.linkedin.com/in/victorbarq/">Link para a documentação geral</a> do projeto.
 
 ## 📁 Estrutura de pastas
 
